@@ -1,1 +1,1 @@
-![home side diagram](diagram.png)
+![home side diagram](../../diagram.png)
