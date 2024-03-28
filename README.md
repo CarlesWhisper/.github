@@ -1,1 +1,1 @@
-![Alt text](./diagram.png)
+![home side diagram](./diagram.png)
