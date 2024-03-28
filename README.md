@@ -1,1 +1,1 @@
-![Alt text](./diagram.PNG)
+![Alt text](./diagram.png)
